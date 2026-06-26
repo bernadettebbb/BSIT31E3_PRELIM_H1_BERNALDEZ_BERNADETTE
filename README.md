@@ -1,12 +1,10 @@
-Student Management System
+# Student Management System
 
-About
+    This is a simple Student Management System made in C# as a console application. It lets users manage student records by adding, viewing, searching, updating, and deleting students. It can also calculate student averages, the class average, and display the top student and highest grade.
 
-This is a simple Student Management System made in C# as a console application. It lets users manage student records by adding, viewing, searching, updating, and deleting students. It can also calculate student averages, the class average, and display the top student and highest grade.
+# Features
 
-Features
-
-* Add a student
+1. Add a student
 * View all students
 * Search for a student by ID
 * Update student grades
@@ -17,12 +15,12 @@ Features
 * Display the highest grade
 * Exit the program
 
-## Requirements
+# Requirements
 
 * .NET SDK
 * Visual Studio Code or Visual Studio
 
-## How to Run
+# How to Run
 
 1. Open the project in Visual Studio Code or Visual Studio.
 2. Open the terminal.
@@ -34,7 +32,7 @@ dotnet run
 
 4. Choose an option from the menu and follow the instructions.
 
-## Sample Menu
+# Sample Menu
 
 ```text
 1. Add Student
@@ -49,7 +47,7 @@ dotnet run
 10. Exit
 ```
 
-## What I Learned
+# What I Learned
 
 While making this project, I learned how to:
 
@@ -60,10 +58,10 @@ While making this project, I learned how to:
 * Calculate averages and find the highest grade
 * Build a menu-driven console application
 
-## Author
+# Author
 
 Bernadette Bernaldez
 
-## Notes
+# Notes
 
 This project was created for learning purposes and may be improved in the future by adding input validation, file saving, and a database.
