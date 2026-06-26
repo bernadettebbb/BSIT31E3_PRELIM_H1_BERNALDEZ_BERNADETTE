@@ -1,10 +1,8 @@
 # Student Management System
-
-    This is a simple Student Management System made in C# as a console application. It lets users manage student records by adding, viewing, searching, updating, and deleting students. It can also calculate student averages, the class average, and display the top student and highest grade.
+This is a simple Student Management System made in C# as a console application. It lets users manage student records by adding, viewing, searching, updating, and deleting students. It can also calculate student averages, the class average, and display the top student and highest grade.
 
 # Features
-
-1. Add a student
+* Add a student
 * View all students
 * Search for a student by ID
 * Update student grades
@@ -60,7 +58,7 @@ While making this project, I learned how to:
 
 # Author
 
-Bernadette Bernaldez
+Laurence Bernaldez
 
 # Notes
 
